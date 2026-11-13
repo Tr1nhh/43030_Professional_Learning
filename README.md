@@ -16,4 +16,9 @@ Professional Development: Strengthen my problem-solving, documentation, communic
 **Purpose**
 The purpose of this repository is to track my learning progress, practise professional software development techniques, and build a portfolio demonstrating my technical skills.
 
+**GitHub Practice**
 This repository will be updated as I complete practical exercises and development projects.
+
+As part of my professional learning, I am practising GitHub version control workflows, including creating branches, committing changes, and using pull requests.
+
+These activities help me understand how developers organise code changes and collaborate on software projects.
